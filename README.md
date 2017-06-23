@@ -1,4 +1,4 @@
-# D-TRCH_TR
+# D-TECH_TR
 
 **# Port Tarayıcı: Port Tarayıcı**
 
